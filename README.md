@@ -42,35 +42,26 @@
 ---
 <p align="center">
   <a href="mailto:viditjoshidev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 6px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 12px;"/>
   </a>
 
-
-  
-  <a href="https://x.com/viditjoshidev" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="margin: 6px;"/>
+  <a href="https://x.com/viditjoshidev">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="margin: 0 12px;"/>
   </a>
 
-  
-
-  <a href="https://discord.com/users/1457074297578328157" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="margin: 6px;"/>
+  <a href="https://discord.com/users/1457074297578328157">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="margin: 0 12px;"/>
   </a>
 
-  
-
-  <a href="https://www.linkedin.com/in/vidit-joshi-9828aa255/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 6px;"/>
+  <a href="https://www.linkedin.com/in/vidit-joshi-9828aa255/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 12px;"/>
   </a>
 
-  
-
-  <a href="https://codeforces.com/profile/_DEV_VJ" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="margin: 6px;"/>
+  <a href="https://codeforces.com/profile/_DEV_VJ">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="margin: 0 12px;"/>
   </a>
-
-  
 </p>
+
 
 ---
  <p align="center">
