@@ -60,4 +60,6 @@
 </p>
 
 ---
-  <img src="https://ghchart.rshah.org/devXvidit" alt="Github Contribution Graph" />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/viditjoshi/viditjoshi/output/snake.svg" alt="GitHub contribution snake animation" />
+</p>
