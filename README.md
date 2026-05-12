@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/2007672926519410688/1770542158/1500x500" />
-</p>
-
     - 🔭 Currently building web and mobile applications  
     - 🌱 Learning Data Structures and Algorithms  
     - 👯 Open to collaborating on open-source and real-world projects  
